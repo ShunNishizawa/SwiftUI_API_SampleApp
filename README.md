@@ -34,6 +34,7 @@ struct Sample: Codable {
  		"frequency" : "everyday"
 	}
  ]
+```
 以下扱える型
 - 数値、文字列、配列、null、bool、オブジェクト
 
