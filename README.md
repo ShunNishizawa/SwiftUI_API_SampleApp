@@ -44,10 +44,12 @@ struct Sample: Codable {
 
 ## サンプルコード
 解説については下記参照
+
 [【SwiftUI】外部サイトからデータを取得する](https://capibara1969.com/2946/)
 
 
 ## 参考資料
 [【Swift入門】SwiftでJSONを扱ってみよう！](https://www.sejuku.net/blog/34776)
+
 [【Swift】Codableを使ったJSON変換](https://capibara1969.com/2551/)
 
